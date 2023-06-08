@@ -3,7 +3,7 @@
 
 #### Compare the properties of the networks, comment on our results and our parameter choices for the synthetic networks, and also the reasoning we used to arrive at them.
 
-#### We'll study the following networks:
+## We'll study the following networks:
 
   • **(1) [Gnutella](https://snap.stanford.edu/data/p2p-Gnutella05.html).** Peer-to-peer network.
   
@@ -19,7 +19,7 @@
 
 For the generation of synthetic networks, we chose parameters so that the networks have corresponding properties to the network (2).
 
-#### For each network we measure the following:
+## For each network we measure the following:
 
   • **(a)** the number of distinct nodes
   
@@ -45,7 +45,7 @@ For the generation of synthetic networks, we chose parameters so that the networ
   
   • **(l)** the size of the largest weakly coherent component in number, nodes, and edges
 
-#### Furthermore plot the degree distribution of the nodes using:
+## Furthermore plot the degree distribution of the nodes using:
 
   • **(m)** simple distribution and linear scale
   
