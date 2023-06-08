@@ -8,7 +8,8 @@
   ## productionAndNetworkMeasurements
   • **Study and analyse social networks.** Compare the properties of the networks, comment on our results and our parameter choices for the synthetic networks, and also the reasoning we used to arrive at them. Also we do some plotting.
   
-  • **(2) Test.** Test.
+  ## test2
+  • **Test2.** Test.
 
 The .txt files that contain the networks used belong to their respective owners.
 
