@@ -3,7 +3,7 @@
 
 #### In this repo we study, analyse and extract knowledge from the web and from different social network graphs.
 
-#### Briefly, this repo contains:
+## Briefly, this repo contains:
 
   ## productionAndNetworkMeasurements
   • **Study and analyse social networks.** Compare the properties of the networks, comment on our results and our parameter choices for the synthetic networks, and also the reasoning we used to arrive at them. Also we do some plotting.
