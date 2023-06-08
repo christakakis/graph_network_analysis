@@ -53,11 +53,9 @@ For the generation of synthetic networks, we chose parameters so that the networ
   
   • **(o)** distribution using exponentially increasing size bins (log bininning) on a logarithmic scale
  
-Compare the properties of the networks, comment on your results and the choices of
-your parameter choices for the synthetic networks, and on what rationale you arrived at them.
+## Finally
 
-
-Then we'll summarize our results and comment them, compare the properties of the networks, also comment the choices of our parameters for the synthetic networks, and on what justification we arrived at them. in the [Report](https://github.com/christakakis/network_analysis/blob/main/productionAndNetworkMeasurements/Production%20and%20Network%20Measurements%20Report.pdf) file.
+We'll summarize our results and comment them, compare the properties of the networks, also comment the choices of our parameters for the synthetic networks, and on what justification we arrived at them. in the [Report](https://github.com/christakakis/network_analysis/blob/main/productionAndNetworkMeasurements/Production%20and%20Network%20Measurements%20Report.pdf) file.
 
 This repository was initially created to store my personal python codes but also be available to others trying to build or understand something similar.
 The codes contained in this repo are made specifically for a Network Analysis and Web Mining course of my MSc program.
