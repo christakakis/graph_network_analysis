@@ -61,4 +61,5 @@ Then we'll summarize our results and comment them, compare the properties of the
 
 This repository was initially created to store my personal python codes but also be available to others trying to build or understand something similar.
 The codes contained in this repo are made specifically for a Network Analysis and Web Mining course of my MSc program.
+
 The .txt files that contain the networks used belong to their respective owners linked in this README file. 
