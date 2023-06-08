@@ -1,7 +1,7 @@
-# Network Analysis
-## **Study, analysis and extraction of knowledge from the web and social networks.**
+# Production And Network Measurements
+## **Study and analyse social networks.**
 
-#### In this repo we study, analyse and extract knowledge from the web and from different social network graphs.
+#### Compare the properties of the networks, comment on our results and our parameter choices for the synthetic networks, and also the reasoning we used to arrive at them.
 
 #### Briefly, this repo contains:
 
