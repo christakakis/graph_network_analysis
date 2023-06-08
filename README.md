@@ -5,7 +5,7 @@
 
 #### Briefly, this repo contains:
 
-  • **(1) Study and analyse social networks.** Compare the properties of the networks, comment on our results and our parameter choices for the synthetic networks, and also the reasoning we used to arrive at them We do some plotting.
+  • **(1) Study and analyse social networks.** Compare the properties of the networks, comment on our results and our parameter choices for the synthetic networks, and also the reasoning we used to arrive at them. Also we do some plotting.
   
   • **(2) Test.** Test.
 
