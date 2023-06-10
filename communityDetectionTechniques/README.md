@@ -33,6 +33,6 @@
   • **(vii)** Density (and compare with the density of ground-truth communities).
  
  
-## Furthermore we explain why we used each of the methods and we do some interesting plots of the resulting communities as well as the ground-truth communities.
+### Furthermore we explain why we used each of the methods and we do some interesting plots of the resulting communities as well as the ground-truth communities.
 
 ## **Problem 2 | Production of Synthetic Networks.**
