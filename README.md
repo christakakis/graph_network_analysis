@@ -12,5 +12,6 @@
   • **Detect communities with different techniques.** Working with [**polblogs**](http://wwwpersonal.umich.edu/~mejn/netdata/polblogs.zip) network, a directed graph from hyperlinks between blogs on US politics recorded in 2005 by Adamic and Glance, we'll try to apply and compare the performance of different community detection techniques, with respect to the ground-truth communities given.
 
 **The files that contain the networks used in this repository belong to their respective owners.**
+
 This repository was initially created to store my personal python codes but also be available to others trying to build or understand something similar.
 The codes contained in this repo are made specifically for a Network Analysis and Web Mining course of my MSc program.
