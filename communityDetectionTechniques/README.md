@@ -5,15 +5,15 @@
 
 ## We'll apply and compare the performance of the following community detection techniques:
 
-  • **(1) Cliques Finding.** A method based on finding a clique.
+  • **(a) Cliques Finding.** A method based on finding a clique.
   
-  • **(2) Modularity Maximazation.** A method of maximizing modularity.
+  • **(b) Modularity Maximazation.** A method of maximizing modularity.
   
-  • **(3) Agglomerative.** An agglomerative hierarchical method.
+  • **(c) Agglomerative.** An agglomerative hierarchical method.
     
-  • **(4) Hierarhical Clustering - Girvan Newman.** A divisive hierarchical method.
+  • **(d) Hierarhical Clustering - Girvan Newman.** A divisive hierarchical method.
       
-  • **(5) Spectral Clustering.** A spectral analysis method.
+  • **(e) Spectral Clustering.** A spectral analysis method.
   
 
 ## For each of the methods we measure the following:
@@ -36,3 +36,5 @@
 ### Furthermore we explain why we used each of the methods and we do some interesting plots of the resulting communities as well as the ground-truth communities.
 
 ## **Problem 2 | Production of Synthetic Networks.**
+
+#### Next we'll generate an undirected network with 1500 nodes using the powerlaw_cluster_graph(n, m, p, seed=None) model. For this network we'll use 3 pairs of **m** and **p** values (approximating from the Barabasi model up to a highly clustered graph), and apply b-e from the clustering methods while measuring v-vii. Finally, we'll compare the results of the real and synthetic networks using diagrams/tables.
