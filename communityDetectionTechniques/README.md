@@ -35,6 +35,8 @@
  
 ### Furthermore we explain why we used each of the methods and we do some interesting plots of the resulting communities as well as the ground-truth communities.
 
+
+
 ## **Problem 2 | Production of Synthetic Networks.**
 
 #### Next we'll generate an undirected network with 1500 nodes using the powerlaw_cluster_graph(n, m, p, seed=None) model. For this network we'll use 3 pairs of **m** and **p** values (approximating from the Barabasi model up to a highly clustered graph), and apply b-e from the clustering methods while measuring v-vii. Finally, we'll compare the results of the real and synthetic networks using diagrams/tables.
