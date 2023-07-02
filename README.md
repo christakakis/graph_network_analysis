@@ -1,4 +1,4 @@
-# Network Analysis
+# Graph Network Analysis
 ## **Study, analysis and extraction of knowledge from the web and social networks.**
 
 #### In this repo we study, analyse and extract knowledge from the web and from different social network graphs.
