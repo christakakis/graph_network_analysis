@@ -5,13 +5,13 @@
 
 ## Briefly, this repo contains:
 
-  ## productionAndNetworkMeasurements
+  ## [productionAndNetworkMeasurements](https://github.com/christakakis/graph_network_analysis/tree/main/productionAndNetworkMeasurements)
   • **Study and analyse social networks.** Compare the properties of the networks, comment on our results and our parameter choices for the synthetic networks, and also the reasoning we used to arrive at them. Also we do some plotting.
 
-  ## node2VecClusteringLinkPrediction
+  ## [node2VecClusteringLinkPrediction](https://github.com/christakakis/graph_network_analysis/tree/main/node2VecClusteringLinkPrediction)
   • **Production and evaluation of Node Embeddings.** Working with [**polbooks**](http://networkdata.ics.uci.edu/data/polbooks/) network, a directed graph from Books about US Politics Dataset, we produce node embeddings using Node2Vec and then evaluate their performance using them for **Link Prediction** and K-Means **Clustering**, with respect to the ground-truth communities given.
   
-  ## communityDetectionTechniques
+  ## [communityDetectionTechniques](https://github.com/christakakis/graph_network_analysis/tree/main/communityDetectionTechniques)
   • **Detect communities with different techniques.** Working with [**polblogs**](http://wwwpersonal.umich.edu/~mejn/netdata/polblogs.zip) network, a directed graph from hyperlinks between blogs on US politics recorded in 2005 by Adamic and Glance, we'll try to apply and compare the performance of different community detection techniques, with respect to the ground-truth communities given.
 
 **The files that contain the networks used in this repository belong to their respective owners.**
