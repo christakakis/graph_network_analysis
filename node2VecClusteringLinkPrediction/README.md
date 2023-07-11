@@ -11,7 +11,7 @@
   
   • **(iii)** Node2Vec with q=1 and p=1
   
-### In all experiments we'll give 64 for embedding dimension. All the other parameters (num_wakls, workers, window, min_count, etc ..) are kept stable and we can see the final values in the [Python Notebook](https://github.com/christakakis/graph_network_analysis/blob/main/node2VecClusteringLinkPrediction/node2VecClusteringLinkPrediction.ipynb) file.
+### In all experiments we'll give 64 for embedding dimension. All the other parameters (num_wakls, workers, window, min_count, etc...) are kept stable and we can see the final values in the [Python Notebook](https://github.com/christakakis/graph_network_analysis/blob/main/node2VecClusteringLinkPrediction/node2VecClusteringLinkPrediction.ipynb) file.
 
 
 ## To evaluate the performance of embeddings we'll use them in the following problems:
@@ -23,7 +23,7 @@
 
 ## Finally
 
-We'll summarize our results and comment them in the [Report](https://github.com/christakakis/network_analysis/blob/main/productionAndNetworkMeasurements/Production%20and%20Network%20Measurements%20Report.pdf) file.
+We'll summarize our results and comment them in the [Report]() file.
 
 This repository was initially created to store my personal python codes but also be available to others trying to build or understand something similar.
 The codes contained in this repo are made specifically for a Network Analysis and Web Mining course of my MSc program.
