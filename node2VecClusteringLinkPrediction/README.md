@@ -11,7 +11,7 @@
   
   • **(iii)** Node2Vec with q=1 and p=1
   
-### In all experiments we'll give 64 for embedding dimension. All the other parameters (num_wakls, workers, window, min_count, etc...) are kept stable and we can see the final values in the [Python Notebook]() file.
+### In all experiments we'll give 64 for embedding dimension. All the other parameters (num_wakls, workers, window, min_count, etc...) are kept stable and we can see the final values in the [Python Notebook](https://github.com/christakakis/graph_network_analysis/blob/main/node2VecClusteringLinkPrediction/node2VecClusteringLinkPrediction.ipynb) file.
 
 
 ## To evaluate the performance of embeddings we'll use them in the following problems:
