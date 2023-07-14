@@ -23,7 +23,7 @@
 
 ## Finally
 
-We'll summarize our results and comment them in the [Report]() file.
+We'll summarize our results and comment them in the [Report](https://github.com/christakakis/graph_network_analysis/blob/main/node2VecClusteringLinkPrediction/Production%20and%20Evaluation%20of%20Node%20Embeddings.pdf) file.
 
 This repository was initially created to store my personal python codes but also be available to others trying to build or understand something similar.
 The codes contained in this repo are made specifically for a Network Analysis and Web Mining course of my MSc program.
