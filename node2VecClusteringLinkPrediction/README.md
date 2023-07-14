@@ -1,4 +1,4 @@
-# Production and evaluation of Node Embeddings
+# Production and Evaluation of Node Embeddings
 ## **Link Prediction and K-Means Clustering.**
 
 #### Working with [**polbooks**](http://networkdata.ics.uci.edu/data/polbooks/) network, a directed graph from Books about US Politics Dataset, we produce node embeddings using Node2Vec and then evaluate their performance using them for Link Prediction and K-Means Clustering, with respect to the ground-truth communities given.
