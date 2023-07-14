@@ -12,7 +12,7 @@
   • **Production and evaluation of Node Embeddings.** Working with [**polbooks**](http://networkdata.ics.uci.edu/data/polbooks/) network, a directed graph from Books about US Politics Dataset, we produce node embeddings using Node2Vec and then evaluate their performance using them for **Link Prediction** and K-Means **Clustering**, with respect to the ground-truth communities given.
   
   ## [communityDetectionTechniques](https://github.com/christakakis/graph_network_analysis/tree/main/communityDetectionTechniques)
-  • **Detect communities with different techniques.** Working with [**polblogs**](http://wwwpersonal.umich.edu/~mejn/netdata/polblogs.zip) network, a directed graph from hyperlinks between blogs on US politics recorded in 2005 by Adamic and Glance, we'll try to apply and compare the performance of different community detection techniques, with respect to the ground-truth communities given.
+  • **Detect communities with different techniques.** Working with [**polblogs**](http://networkdata.ics.uci.edu/data/polblogs/) network, a directed graph from hyperlinks between blogs on US politics recorded in 2005 by Adamic and Glance, we'll try to apply and compare the performance of different community detection techniques, with respect to the ground-truth communities given.
 
 **The files that contain the networks used in this repository belong to their respective owners.**
 
