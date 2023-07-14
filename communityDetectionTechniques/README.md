@@ -1,7 +1,7 @@
 # Production And Network Measurements
 ## **Problem 1 | Detect communities with different techniques.**
 
-#### Working with [**polblogs**](http://wwwpersonal.umich.edu/~mejn/netdata/polblogs.zip) network, a directed graph from hyperlinks between blogs on US politics recorded in 2005 by Adamic and Glance, we'll try to apply and compare the performance of different community detection techniques, with respect to the ground-truth communities given.
+#### Working with [**polblogs**](http://networkdata.ics.uci.edu/data/polblogs/) network, a directed graph from hyperlinks between blogs on US politics recorded in 2005 by Adamic and Glance, we'll try to apply and compare the performance of different community detection techniques, with respect to the ground-truth communities given.
 
 ## We'll apply and compare the performance of the following community detection techniques:
 
